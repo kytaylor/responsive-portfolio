@@ -2,6 +2,10 @@ body {
     background-color: rgb(170, 170, 170);
 }
 
+h1 {
+    color: rgba(131,58,180,1);
+}
+
 section {
     background-color: white;
     margin-top: 20px;
