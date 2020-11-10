@@ -1,15 +1,16 @@
 body {
-    background-color: rgb(170, 170, 170);
+    background-color: rgb(200, 200, 200);
 }
 
 h1 {
     color: rgba(131,58,180,1);
 }
 
-section {
+.container {
     background-color: white;
     margin-top: 20px;
     padding: 10px;
+    width: 95%;
 }
 
 .float-left {
@@ -18,8 +19,9 @@ section {
 }
 
 @media (min-width: 576px) {
-    .container {
+    section {
         margin-right: 35%;
+        margin-left: 5%;
         width: 60%;
     }
 }
