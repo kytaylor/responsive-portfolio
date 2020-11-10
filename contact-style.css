@@ -13,6 +13,11 @@ h1 {
     width: 95%;
 }
 
+.btn-default {
+    background-color: rgba(131,58,180,1);
+    color: white;
+}
+
 @media (min-width: 576px) {
     section {
         margin-right: 35%;
