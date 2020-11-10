@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(170, 170, 170);
+}
+
+section {
+    background-color: white;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+@media (min-width: 576px) {
+    .container {
+        margin-right: 35%;
+        width: 60%;
+    }
+}
