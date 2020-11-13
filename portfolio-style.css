@@ -10,13 +10,17 @@ h1 {
     background-color: white;
     margin-top: 20px;
     padding-top: 10px;
-    width: 95%;
+    /* width: 95%; */
+    max-width: 1400px;
     margin-bottom: 10%;
+    justify-items: center;
 }
 
 .image {
-    margin-top: 5px;
+    /*position: relative;*/
+    /* margin-top: 5px; */
     max-width: 100%;
+    /* justify-self: center; */
 }
 
 footer {
