@@ -18,6 +18,7 @@ h1 {
     float: left;
     margin-right: 25px;
     max-width: 40%;
+    margin-right: 10px;
 }
 
 footer {
@@ -37,5 +38,9 @@ footer {
         margin-right: 35%;
         margin-left: 5%;
         width: 60%;
+    }
+
+    .float-left {
+        max-width: 30%;
     }
 }
